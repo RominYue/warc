@@ -1,4 +1,4 @@
-warc: Python library to work with WARC files
+warc: Python library to work with WARC files (Especially for Clueweb Datasets)
 ============================================
 
 .. image:: https://secure.travis-ci.org/anandology/warc.png?branch=master
@@ -53,4 +53,4 @@ License
 
 This software is licensed under GPL v2. See LICENSE_ file for details.
 
-.. LICENSE: http://github.com/RominYue/warc/blob/master/LICENSE
+.. LICENSE: https://github.com/RominYue/warc/blob/master/LICENSE
